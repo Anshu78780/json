@@ -8,7 +8,7 @@
     "mes" : "api test"
   },
   "Forceupdate": {
-    "update" : "no",
+    "update" : "yes",
     "url" : "https://screenscape.fun/"
 }
 }
