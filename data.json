@@ -1,6 +1,6 @@
 {
   "App": {
-    "update": "no",
-    
+    "update": "yes",
+    "url" : "https://screenscape.fun/"
   }
 }
