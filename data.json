@@ -2,5 +2,13 @@
   "App": {
     "update": "no",
     "url" : "https://screenscape.fun/"
-  }
+  },
+  "Message":{
+   "message" : "no",
+    "mes" : "api test"
+  },
+  "Forceupdate": {
+    "update" : "no",
+    "url" : "https://screenscape.fun/"
+}
 }
