@@ -1,6 +1,6 @@
 {
   "App": {
-    "update": "yes",
+    "update": "no",
     "url" : "https://screenscape.fun/"
   },
   "Message":{
@@ -8,7 +8,7 @@
     "mes" : "api test"
   },
   "Forceupdate": {
-    "update" : "yes",
+    "update" : "no",
     "url" : "https://screenscape.fun/"
 }
 }
