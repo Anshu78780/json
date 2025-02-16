@@ -1,6 +1,6 @@
 {
   "App": {
-    "update": "no",
+    "update": "yes",
     "version" : "v0.0.6"
     "url" : "https://screenscape.fun/"
   },
