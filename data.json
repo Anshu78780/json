@@ -9,7 +9,8 @@
     "mes" : "api test"
   },
   "Forceupdate": {
-    "update" : "no",
+    "update" : "yes",
+    "version" : "0.0.6",
     "url" : "https://screenscape.fun/"
 }
 }
