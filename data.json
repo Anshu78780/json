@@ -5,12 +5,12 @@
     "url": "https://screenscape.fun/"
   },
   "Message": {
-    "message": "yes",
+    "message": "no",
     "mes": "Dear Users Our Netflix And Prime Video Server Having Some Problem Try Running Other Server"
   },
   "Forceupdate": {
-    "update": "no",
-    "version": "0.0.8",
+    "update": "yes",
+    "version": "0.0.9",
     "url": "https://screenscape.fun/"
   },
   "netflixCookie": {
