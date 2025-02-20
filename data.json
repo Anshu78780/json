@@ -14,9 +14,9 @@
     "url": "https://screenscape.fun/"
   },
   "netflixCookie": {
-    "cookie": "t_hash_t=6aa723bc254d55306dc03a09f94f7531%3A%3A7f6de0112e61b84e55db8dbb1cdefa99%3A%3A1739955223%3A%3Ani; t_hash=745fae936754f0ebd60d92c0d7930f39%3A%3A1739956007%3A%3Ani"
+    "cookie": "t_hash=615c343e87f141340391e69bc3e9f8fd%3A%3A1739975734%3A%3Ani; addhash=72a5518775ce9f0470744f73a39df05b%3A%3A1071a078cf744635b34cf89b5ad99ff4%3A%3A1740054830%3A%3Ani; t_hash_t=1a05565fc6642e818e29371f469b61a6%3A%3A13b5e69d247587ff8cf98549cb9baf73%3A%3A1740054874%3A%3Ani"
   },
   "clearcache": {
-    "value": "no"
+    "value": ""yes
   }
 }
