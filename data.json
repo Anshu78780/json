@@ -13,13 +13,10 @@
     "version": "0.2.0",
     "url": "https://screenscape.fun/"
   },
-  "netflixCookie": {
-    "cookie": "hd=on"
-  },
   "clearcache": {
     "value": "no"
   },
   "urlpath": {
-    "path": "https://anshu78780.github.io/json/da.json"
+    "path": "https://anshu78780.github.io/json/cookie.json"
   }
 }
