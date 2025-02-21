@@ -18,5 +18,8 @@
   },
   "clearcache": {
     "value": "no"
+  },
+  "urlpath": {
+    "path": "https://anshu78780.github.io/json/cookie.json"
   }
 }
