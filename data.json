@@ -9,7 +9,7 @@
     "mes": "Dear Users Our Netflix And Prime Video Server Having Some Problem Try Running Other Server"
   },
   "Forceupdate": {
-    "update": "no",
+    "update": "yes",
     "version": "0.2.1",
     "mes": "Fixed Netflix And Prime",
     "url": "https://screenscape.fun/"
