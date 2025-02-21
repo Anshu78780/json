@@ -9,8 +9,8 @@
     "mes": "Dear Users Our Netflix And Prime Video Server Having Some Problem Try Running Other Server"
   },
   "Forceupdate": {
-    "update": "no",
-    "version": "0.2.0",
+    "update": "yes",
+    "version": "0.2.1",
     "url": "https://screenscape.fun/"
   },
   "clearcache": {
