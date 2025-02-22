@@ -5,8 +5,8 @@
     "url": "https://screenscape.fun/"
   },
   "Message": {
-    "message": "no",
-    "mes": "Dear Users Our Netflix And Prime Video Server Having Some Problem Try Running Other Server"
+    "message": "yes",
+    "mes": " currently our Netflix and prime video having server issue due to vps use VPN or countinue with other services "
   },
   "Forceupdate": {
     "update": "yes",
