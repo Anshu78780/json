@@ -130,5 +130,9 @@
 "nfCookie":{
   "name":"nf cookie verify",
 "url":"https://userverify.netmirror.app"
-}
+},
+  "embedsu":{
+    "name":"embedsu",
+    "url":"https://embed.su"
+  }
 }
