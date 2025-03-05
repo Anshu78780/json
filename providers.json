@@ -33,11 +33,11 @@
   },
    "multi":{
    "name":"multimovies",
-    "url":"https://multimovies.life"
+    "url":"https://multimovies.world"
   },
    "w4u":{
    "name":"world4ufree",
-    "url":"https://world4ufree.durban"
+    "url":"https://world4ufree.fyi"
   },
   "extra":{
    "name":"extraMovies",
@@ -45,7 +45,7 @@
   },
   "hdhub":{
     "name":"hdhub4u",
-    "url":"https://hdhub4u.soy"
+    "url":"https://hdhub4u.lc/"
   },
   "kat":{
     "name": "katmovieshd",
