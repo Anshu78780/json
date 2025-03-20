@@ -134,5 +134,9 @@
   "embedsu":{
     "name":"embedsu",
     "url":"https://embed.su"
+  },
+  "filmyfly":{
+    "name":"flimyfly",
+    "url":"https://filmyfly.fi"
   }
 }
