@@ -1,7 +1,7 @@
 {
   "Moviesmod": {
     "name": "Moviesmod",
-    "url": "https://moviesmod.how"
+    "url": "https://moviesmod.gift"
   },
   "Animeflix": {
     "name": "Animeflix",
@@ -9,11 +9,11 @@
   },
   "Topmovies": {
     "name": "Topmovies",
-    "url": "https://topmovies.wales/"
+    "url": "https://topmovies.wales"
   },
   "UhdMovies": {
     "name": "UhdMovies",
-    "url": "https://uhdmovies.fyi"
+    "url": "https://uhdmovies.wales"
   },
   "filepress": {
     "name": "filepress",
@@ -21,19 +21,19 @@
   },
   "Vega": {
     "name": "vegamovies",
-    "url": "https://vegamovies.rs"
+    "url": "https://vegamovies.band"
   },
   "lux": {
     "name":"luxmovies",
-    "url":"https://rogmovies.icu/"
+    "url":"https://rogmovies.icu"
   },
   "drive":{
    "name":"moviesDrive",
-    "url":"https://moviesdrive.club/"
+    "url":"https://moviesdrive.guru"
   },
    "multi":{
    "name":"multimovies",
-    "url":"https://multimovies.world"
+    "url":"https://multimovies.press"
   },
    "w4u":{
    "name":"world4ufree",
@@ -45,11 +45,11 @@
   },
   "hdhub":{
     "name":"hdhub4u",
-    "url":"https://hdhub4u.soccer"
+    "url":"https://hdhub4u.cricket"
   },
   "kat":{
     "name": "katmovieshd",
-    "url":"https://katmoviehd.wales"
+    "url":"https://katmoviehd.rodeo"
   },
   "dc":{
     "name":"dramacool",
@@ -57,7 +57,7 @@
   },
   "dooflix":{
     "name":"dooflix",
-    "url":"https://hdmovie2.works"
+    "url":"https://hdmovie2.travel"
   },
    "autoEmbed":{
     "name":"autoEmbed",
@@ -137,6 +137,6 @@
   },
   "filmyfly":{
     "name":"flimyfly",
-    "url":"https://filmyfly.fi"
+    "url":"https://filmyfly.golf/"
   }
 }
