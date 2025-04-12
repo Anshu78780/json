@@ -21,11 +21,11 @@
   },
   "Vega": {
     "name": "vegamovies",
-    "url": "https://vegamovies.band"
+    "url": "https://vegamovies.bot"
   },
   "lux": {
     "name":"luxmovies",
-    "url":"https://rogmovies.fun"
+    "url":"https://rogmovies.lol"
   },
   "drive":{
    "name":"moviesDrive",
@@ -45,7 +45,7 @@
   },
   "hdhub":{
     "name":"hdhub4u",
-    "url":"https://hdhub4u.cricket"
+    "url":"https://hdhub4u.gallery"
   },
   "kat":{
     "name": "katmovieshd",
@@ -101,7 +101,7 @@
   },
   "cinemaLuxe":{
     "name":"cinemaLuxe",
-    "url":"https://luxecinema.zip"
+    "url":"https://luxecinema.in"
   },
    "showbox":{
     "name":"showbox",
