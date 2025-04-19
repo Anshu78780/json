@@ -142,21 +142,5 @@
   "flyio" : {
     "name" : "flyio",
     "url" : "https://net-cookie-cgzmxq.fly.dev"
-  },
-  "4kHDHub" : {
-    "name" : "4kHDHub",
-    "url"  : "https://4khdhub.fans"
-},
-  "KMMovies" : {
-    "name" : "KMMovies",
-    "url" : "https://kmmovies.work"
-  },
-  "DesiReMovies" : {
-    "name" : "DesiReMovies",
-    "url" : "https://desiremovies.kiwi"
-  },
-  "allmovieshub" : {
-    "name" : "allmovieshub",
-    "url" : "https://allmovieshub.center"
   }
 }
