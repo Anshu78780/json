@@ -5,7 +5,7 @@
   },
   "Animeflix": {
     "name": "Animeflix",
-    "url": "https://animeflix.shop"
+    "url": "https://animeflix.pm"
   },
   "Topmovies": {
     "name": "Topmovies",
@@ -29,7 +29,7 @@
   },
   "drive":{
    "name":"moviesDrive",
-    "url":"https://moviesdrive.xyz/"
+    "url":"https://moviesdrive.solutions/"
   },
    "multi":{
    "name":"multimovies",
@@ -41,11 +41,11 @@
   },
   "extra":{
    "name":"extraMovies",
-    "url":"https://extramovies.ist"
+    "url":"https://extramovies.page/"
   },
   "hdhub":{
     "name":"hdhub4u",
-    "url":"https://hdhub4u.exposed"
+    "url":"https://hdhub4u.graphics/"
   },
   "kat":{
     "name": "katmovieshd",
@@ -101,7 +101,7 @@
   },
   "cinemaLuxe":{
     "name":"cinemaLuxe",
-    "url":"https://luxecinema.in"
+    "url":"https://cinemaluxe.foo"
   },
    "showbox":{
     "name":"showbox",
@@ -157,6 +157,6 @@
   },
   "allmovieshub" : {
     "name" : "allmovieshub",
-    "url" : "https://allmovieshub.center"
+    "url" : "https://allmovieshub.vin"
   }
 }
