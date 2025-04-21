@@ -101,7 +101,7 @@
   },
   "cinemaLuxe":{
     "name":"cinemaLuxe",
-    "url":"https://luxecinema.in"
+    "url":"https://cinemaluxe.foo"
   },
    "showbox":{
     "name":"showbox",
@@ -157,6 +157,6 @@
   },
   "allmovieshub" : {
     "name" : "allmovieshub",
-    "url" : "https://allmovieshub.center"
+    "url" : "https://allmovieshub.vin"
   }
 }
