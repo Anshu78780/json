@@ -158,5 +158,9 @@
   "allmovieshub" : {
     "name" : "allmovieshub",
     "url" : "https://allmovieshub.vin"
+  },
+  "theanimeworld" : {
+    "name" : "theanimeworld",
+    "url" : "https://theanimeworld.in/"
   }
 }
