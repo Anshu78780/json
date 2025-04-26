@@ -1,5 +1,182 @@
-{
-  "netflixCookie": {
-    "cookie":"t_hash=f308f1106128e6e96dcc820ba392453d%3A%3A1741162935%3A%3Ani; addhash=50dd23014657fc990526dae5eb0bac16%3A%3A621a9cc7f623bce7c48458285488bdb7%3A%3A1741367430%3A%3Ani; t_hash_t=2facb3edb57a91860da78e3d2c44df18%3A%3A860f9a90e461c327784638cf622bec29%3A%3A1741367474%3A%3Ani;"
-  }
-}
+[
+    {
+        "channel_id": "291",
+        "channel_name": "SONY HD",
+        "logo_url": "http:\/\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/Sony_HD.png",
+        "group": "TS-JioTV SonyLIV",
+        "language": "",
+        "category": "",
+        "has_catchup": false,
+        "stream_url": "https:\/\/dai.google.com\/ssai\/event\/HgaB-u6rSpGx3mo4Xu3sLw\/master.m3u8"
+    },
+    {
+        "channel_id": "471",
+        "channel_name": "SONY SAB HD",
+        "logo_url": "http:\/\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/Sony_SAB_HD.png",
+        "group": "TS-JioTV SonyLIV",
+        "language": "",
+        "category": "",
+        "has_catchup": false,
+        "stream_url": "https:\/\/dai.google.com\/ssai\/event\/UI4QFJ_uRk6aLxIcADqa_A\/master.m3u8"
+    },
+    {
+        "channel_id": "474",
+        "channel_name": "SONY PAL",
+        "logo_url": "http:\/\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/Sony_Pal.png",
+        "group": "TS-JioTV SonyLIV",
+        "language": "",
+        "category": "",
+        "has_catchup": false,
+        "stream_url": "https:\/\/dai.google.com\/ssai\/event\/rPzF28qORbKZkhci_04fdQ\/master.m3u8"
+    },
+    {
+        "channel_id": "762",
+        "channel_name": "SONY PIX HD",
+        "logo_url": "http:\/\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/Sony_Pix_HD.png",
+        "group": "TS-JioTV SonyLIV",
+        "language": "",
+        "category": "",
+        "has_catchup": false,
+        "stream_url": "https:\/\/dai.google.com\/ssai\/event\/8FR5Q-WfRWCkbMq_GxZ77w\/master.m3u8"
+    },
+    {
+        "channel_id": "289",
+        "channel_name": "SONY MAX",
+        "logo_url": "http:\/\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/SET_MAX.png",
+        "group": "TS-JioTV SonyLIV",
+        "language": "",
+        "category": "",
+        "has_catchup": false,
+        "stream_url": "https:\/\/dai.google.com\/ssai\/event\/oJ-TGgVFSgSMBUoTkauvFQ\/master.m3u8"
+    },
+    {
+        "channel_id": "476",
+        "channel_name": "SONY MAX HD",
+        "logo_url": "http:\/\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/Sony_Max_HD.png",
+        "group": "TS-JioTV SonyLIV",
+        "language": "",
+        "category": "",
+        "has_catchup": false,
+        "stream_url": "https:\/\/dai.google.com\/ssai\/event\/Qyqz40bSQriqSuAC7R8_Fw\/master.m3u8"
+    },
+    {
+        "channel_id": "483",
+        "channel_name": "SONY MAX2",
+        "logo_url": "http:\/\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/Sony_MAX2.png",
+        "group": "TS-JioTV SonyLIV",
+        "language": "",
+        "category": "",
+        "has_catchup": false,
+        "stream_url": "https:\/\/dai.google.com\/ssai\/event\/4Jcu195QTpCNBXGnpw2I6g\/master.m3u8"
+    },
+    {
+        "channel_id": "1393",
+        "channel_name": "SONY WAH",
+        "logo_url": "http:\/\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/Sony_Wah.png",
+        "group": "TS-JioTV SonyLIV",
+        "language": "",
+        "category": "",
+        "has_catchup": false,
+        "stream_url": "https:\/\/dai.google.com\/ssai\/event\/H_ZvXWqHRGKpHcdDE5RcDA\/master.m3u8"
+    },
+    {
+        "channel_id": "162",
+        "channel_name": "SONY TEN 1 HD",
+        "logo_url": "http:\/\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/Ten_HD.png",
+        "group": "TS-JioTV SonyLIV",
+        "language": "",
+        "category": "",
+        "has_catchup": false,
+        "stream_url": "https:\/\/dai.google.com\/ssai\/event\/yeYP86THQ4yl7US8Zx5eug\/master.m3u8"
+    },
+    {
+        "channel_id": "514",
+        "channel_name": "SONY TEN 1",
+        "logo_url": "http:\/\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/Ten_HD.png",
+        "group": "TS-JioTV SonyLIV",
+        "language": "",
+        "category": "",
+        "has_catchup": false,
+        "stream_url": "https:\/\/dai.google.com\/ssai\/event\/4_pnLi2QTe6bRGvvahRbfg\/master.m3u8"
+    },
+    {
+        "channel_id": "891",
+        "channel_name": "SONY TEN 2 HD",
+        "logo_url": "http:\/\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/Ten2_HD.png",
+        "group": "TS-JioTV SonyLIV",
+        "language": "",
+        "category": "",
+        "has_catchup": false,
+        "stream_url": "https:\/\/dai.google.com\/ssai\/event\/Syu8F41-R1y_JmQ7x0oNxQ\/master.m3u8"
+    },
+    {
+        "channel_id": "891",
+        "channel_name": "SONY TEN 2",
+        "logo_url": "https:\/\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/Ten_2.png",
+        "group": "TS-JioTV SonyLIV",
+        "language": "",
+        "category": "",
+        "has_catchup": false,
+        "stream_url": "https:\/\/dai.google.com\/ssai\/event\/nspQRqO5RmC06VmlPrTwkQ\/master.m3u8"
+    },
+    {
+        "channel_id": "892",
+        "channel_name": "SONY TEN 3 HD",
+        "logo_url": "http:\/\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/Ten3_HD.png",
+        "group": "TS-JioTV SonyLIV",
+        "language": "",
+        "category": "",
+        "has_catchup": false,
+        "stream_url": "https:\/\/dai.google.com\/ssai\/event\/nmQFuHURTYGQBNdUG-2Qdw\/master.m3u8"
+    },
+    {
+        "channel_id": "524",
+        "channel_name": "SONY TEN 3",
+        "logo_url": "http:\/\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/Ten_3.png",
+        "group": "TS-JioTV SonyLIV",
+        "language": "",
+        "category": "",
+        "has_catchup": false,
+        "stream_url": "https:\/\/dai.google.com\/ssai\/event\/9kocjiLUSf-erlSrv3d4Mw\/master.m3u8"
+    },
+    {
+        "channel_id": "817",
+        "channel_name": "SONY TEN 4 HD",
+        "logo_url": "https:\/\/www.sonypicturesnetworks.com\/images\/logos\/SONY_SportsTen4_HD_Logo_CLR.png",
+        "group": "TS-JioTV SonyLIV",
+        "language": "",
+        "category": "",
+        "has_catchup": false,
+        "stream_url": "https:\/\/dai.google.com\/ssai\/event\/x4LxWUcVSIiDaq1VCM7DSA\/master.m3u8"
+    },
+    {
+        "channel_id": "817",
+        "channel_name": "SONY TEN 4",
+        "logo_url": "https:\/\/www.sonypicturesnetworks.com\/images\/logos\/SONY_SportsTen4_HD_Logo_CLR.png",
+        "group": "TS-JioTV SonyLIV",
+        "language": "",
+        "category": "",
+        "has_catchup": false,
+        "stream_url": "https:\/\/dai.google.com\/ssai\/event\/hInaEKUJSziZAGv9boOdjg\/master.m3u8"
+    },
+    {
+        "channel_id": "155",
+        "channel_name": "SONY TEN 5 HD",
+        "logo_url": "https:\/\/www.sonypicturesnetworks.com\/images\/logos\/SONY_SportsTen5_HD_Logo_CLR.png",
+        "group": "TS-JioTV SonyLIV",
+        "language": "",
+        "category": "",
+        "has_catchup": false,
+        "stream_url": "https:\/\/dai.google.com\/ssai\/event\/DD7fA-HgSUaLyZp9AjRYxQ\/master.m3u8"
+    },
+    {
+        "channel_id": "525",
+        "channel_name": "SONY TEN 5",
+        "logo_url": "https:\/\/www.sonypicturesnetworks.com\/images\/logos\/SONY_SportsTen5_HD_Logo_CLR.png",
+        "group": "TS-JioTV SonyLIV",
+        "language": "",
+        "category": "",
+        "has_catchup": false,
+        "stream_url": "https:\/\/dai.google.com\/ssai\/event\/S-q8I27RRzmkb-OIdoaiAw\/master.m3u8"
+    }
+]
