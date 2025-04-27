@@ -43,10 +43,6 @@
     "name": "katmovieshd",
     "url":"https://katmoviehd.rodeo"
   },
-  "dc":{
-    "name":"dramacool",
-    "url":"https://dramacool.bg"
-  },
    "autoEmbed":{
     "name":"autoEmbed",
     "url":"https://autoembed.cc"
