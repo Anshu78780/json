@@ -3,10 +3,6 @@
     "name": "Moviesmod",
     "url": "https://moviesmod.email"
   },
-  "Animeflix": {
-    "name": "Animeflix",
-    "url": "https://animeflix.pm"
-  },
   "Topmovies": {
     "name": "Topmovies",
     "url": "https://topmovies.tips"
@@ -39,10 +35,6 @@
    "name":"world4ufree",
     "url":"https://world4ufree.rodeo"
   },
-  "extra":{
-   "name":"extraMovies",
-    "url":"https://extramovies.page/"
-  },
   "hdhub":{
     "name":"hdhub4u",
     "url":"https://hdhub4u.graphics/"
@@ -54,10 +46,6 @@
   "dc":{
     "name":"dramacool",
     "url":"https://embasic.pro"
-  },
-  "dooflix":{
-    "name":"HdMovie2",
-    "url":"https://hdmovie2.giving"
   },
    "autoEmbed":{
     "name":"autoEmbed",
@@ -83,10 +71,6 @@
     "name":"nfMirror",
     "url":"https://netfree2.cc/mobile"
   },
-  "primewire":{
-    "name":"primewire",
-    "url":"https://www.primewire.tf"
-  },
   "rive":{
     "name":"rive",
     "url":"https://rivestream.live"
@@ -94,10 +78,6 @@
     "kissKh":{
     "name":"kissKh",
     "url":"https://kisskh.ovh"
-  },
-  "vadapav":{
-    "name":"vadapav",
-    "url":"https://vadapav.mov"
   },
   "cinemaLuxe":{
     "name":"cinemaLuxe",
@@ -107,17 +87,9 @@
     "name":"showbox",
     "url":"https://www.showbox.media"
   },
-    "animerulz":{
-    "name":"animerulz",
-    "url":"https://animerulz.co"
-  },
    "moviesapi":{
     "name":"moviesapi",
     "url":"https://moviesapi.club"
-  },
-  "ridomovies":{
-    "name":"ridomovies",
-    "url": "https://ridomovies.tv"
   },
   "protonMovies":{
     "name":"protonMovies",
