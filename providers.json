@@ -134,5 +134,9 @@
   "dramafull" : {
     "name" : "dramafull",
     "url" : "https://dramafull.net"
+  },
+  "yomvies" : {
+    "name" : "yomovies",
+    "url"  : "https://yomovies.cash"
   }
 }
