@@ -138,5 +138,13 @@
   "yomvies" : {
     "name" : "yomovies",
     "url"  : "https://yomovies.cash"
+  },
+  "bappam" : {
+    "name" : "bappam",
+    "url" : "https://rev.bappam.eu/telugu-movies"
+  },
+  "ibomma" : {
+    "name" : "ibomma",
+    "url" : "https://ser.ibomma.re"
   }
 }
