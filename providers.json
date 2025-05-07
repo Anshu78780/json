@@ -77,7 +77,7 @@
   },
   "cinemaLuxe":{
     "name":"cinemaLuxe",
-    "url":"https://cinemaluxe.foo"
+    "url":"https://cinemaluxe.mov"
   },
    "showbox":{
     "name":"showbox",
@@ -137,11 +137,11 @@
   },
   "yomovies" : {
     "name" : "yomovies",
-    "url"  : "https://yomovies.cash"
+    "url"  : "https://yomovies.golf"
   },
   "bappam" : {
     "name" : "bappam",
-    "url" : "https://rev.bappam.eu/telugu-movies"
+    "url" : "https://reo.bappam.eu/telugu-movies"
   },
   "ibomma" : {
     "name" : "ibomma",
