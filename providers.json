@@ -37,11 +37,11 @@
   },
   "hdhub":{
     "name":"hdhub4u",
-    "url":"https://hdhub4u.graphics/"
+    "url":"https://hdhub4u.football/"
   },
   "kat":{
     "name": "katmovieshd",
-    "url":"https://katmoviehd.rodeo"
+    "url":"https://katmoviehd.blue"
   },
    "autoEmbed":{
     "name":"autoEmbed",
@@ -101,7 +101,7 @@
   },
   "filmyfly" : {
     "name":"flimyfly",
-    "url":"https://filmyfly.win"
+    "url":"https://filmyfly.stream"
   },
   "flyio" : {
     "name" : "flyio",
@@ -121,7 +121,7 @@
   },
   "allmovieshub" : {
     "name" : "allmovieshub",
-    "url" : "https://allmovieshub.news"
+    "url" : "https://allmovieshub.plus"
   },
   "theanimeworld" : {
     "name" : "theanimeworld",
