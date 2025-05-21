@@ -17,7 +17,7 @@
   },
   "Vega": {
     "name": "vegamovies",
-    "url": "https://vegamovies.bot"
+    "url": "https://app.vegamovies.bot"
   },
   "lux": {
     "name":"luxmovies",
@@ -37,7 +37,7 @@
   },
   "hdhub":{
     "name":"hdhub4u",
-    "url":"https://hdhub4u.football/"
+    "url":"https://hdhub4u.frl/"
   },
   "kat":{
     "name": "katmovieshd",
@@ -113,7 +113,7 @@
 },
   "KMMovies" : {
     "name" : "KMMovies",
-    "url" : "https://kmmovies.work"
+    "url" : "https://kmmovies.fun"
   },
   "DesiReMovies" : {
     "name" : "DesiReMovies",
