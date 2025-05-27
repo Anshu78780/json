@@ -29,7 +29,7 @@
   },
    "multi":{
    "name":"multimovies",
-    "url":"https://multimovies.media"
+    "url":"https://multimovies.boutique"
   },
    "w4u":{
    "name":"world4ufree",
@@ -101,7 +101,7 @@
   },
   "filmyfly" : {
     "name":"flimyfly",
-    "url":"https://filmyfly.stream"
+    "url":"https://filmyfly.date"
   },
   "flyio" : {
     "name" : "flyio",
@@ -133,7 +133,7 @@
   },
   "dramafull" : {
     "name" : "dramafull",
-    "url" : "https://dramafull.net"
+    "url" : "https://dramafull.co"
   },
   "yomovies" : {
     "name" : "yomovies",
