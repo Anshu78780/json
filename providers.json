@@ -150,5 +150,9 @@
   "animesalt" : {
     "name" : "animesalt",
     "url" : "https://animesalt.cc"
+  },
+  "10bitclub" : {
+    "name" : "10bitclub",
+    "url" : "https://10bitclub.xyz/"
   }
 }
