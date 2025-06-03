@@ -158,5 +158,9 @@
   "movies4u" : {
     "name" : "movies4u",
     "url" : "https://movies4u.ca/"
+  },
+  "punjabimoviez" : {
+    "name" : "punjabimoviez",
+    "url"  : "https://punjabimoviez.lol/"
   }
 }
