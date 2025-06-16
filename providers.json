@@ -158,5 +158,9 @@
   "xprime" : {
     "name" : "xprime",
     "url" : "https://xprimehub.lat/"
+  },
+  "cinebox" : {
+    "name" : "cinebox",
+    "url" : "https://www.cinebox.fun"
   }
 }
