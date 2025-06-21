@@ -166,5 +166,9 @@
   "cinevood" : {
     "name" : "cinebox",
     "url" : "https://1cinevood.asia"
+  },
+  "netmir" : {
+    "name" : "netmir",
+    "url" : "https://netmirror.art"
   }
 }
