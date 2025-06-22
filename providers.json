@@ -170,5 +170,9 @@
   "netmir" : {
     "name" : "netmir",
     "url" : "https://netmirror.art"
-  }
+  },
+  "zinkmovies" : {
+  "name" : "zinkmovies",
+    "url" : "https://zinkmovies.autos"
+  },
 }
