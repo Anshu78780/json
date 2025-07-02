@@ -174,5 +174,9 @@
   "zinkmovies" : {
   "name" : "zinkmovies",
     "url" : "https://zinkmovies.autos"
+  },
+  "Animetsu" : {
+    "name" : "animetsu",
+    "url" : "https://animetsu.to/"
   }
 }
