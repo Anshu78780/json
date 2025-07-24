@@ -17,11 +17,11 @@
   },
   "Vega": {
     "name": "vegamovies",
-    "url": "https://vegamovies.frl"
+    "url": "https://vegamovies.moi"
   },
   "lux": {
     "name":"Rogmovies",
-    "url":"https://rogmovies.sbs"
+    "url":"https://rogmovies.ink"
   },
   "drive":{
    "name":"moviesDrive",
@@ -77,7 +77,7 @@
   },
   "cinemaLuxe":{
     "name":"cinemaLuxe",
-    "url":"https://cinemalux.cfd"
+    "url":"https://cinemalux.icu"
   },
    "showbox":{
     "name":"showbox",
