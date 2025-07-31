@@ -37,7 +37,7 @@
   },
   "hdhub":{
     "name":"hdhub4u",
-    "url":"https://hdhub4u.gifts/"
+    "url":"https://hdhub4u.capital"
   },
   "kat":{
     "name": "katmovieshd",
@@ -51,7 +51,7 @@
     "name":"autoEmbedDrama",
     "url":"https://watch-drama.autoembed.cc"
   },
-    "aea":{
+   "aea":{
     "name":"autoEmbedAnime",
     "url":"https://watch-anime.autoembed.cc"
   },
