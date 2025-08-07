@@ -33,7 +33,7 @@
   },
    "w4u":{
    "name":"world4ufree",
-    "url":"https://world4ufree.pet/"
+    "url":"https://world4ufree.gift/"
   },
   "hdhub":{
     "name":"hdhub4u",
@@ -91,21 +91,9 @@
     "name":"protonMovies",
     "url":"https://m3.protonmovies.top"
   },
-"nfCookie":{
-  "name":"nf cookie verify",
-"url":"https://userverify.netmirror.app"
-},
-  "embedsu":{
-    "name":"embedsu",
-    "url":"https://embed.su"
-  },
   "filmyfly" : {
     "name":"flimyfly",
     "url":"https://filmyfly.reisen/"
-  },
-  "flyio" : {
-    "name" : "flyio",
-    "url" : "https://net-cookie-cgzmxq.fly.dev"
   },
   "4kHDHub" : {
     "name" : "4kHDHub",
@@ -121,7 +109,7 @@
   },
   "allmovieshub" : {
     "name" : "allmovieshub",
-    "url" : "https://allmovieshub.wtf/"
+    "url" : "https://allmovieshub.bid/"
   },
   "skymovieshd" : {
     "name" : "skymovieshd",
@@ -170,9 +158,5 @@
   "movieBox": {
     "name": "MovieBox",
     "url": "https://api6.aoneroom.com"
-  },
-  "cookie" : {
-    "name" : "cookie",
-    "url" : "https://mongo-tau-peach.vercel.app/"
   }
 }
