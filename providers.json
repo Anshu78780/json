@@ -158,5 +158,9 @@
   "movieBox": {
     "name": "MovieBox",
     "url": "https://api6.aoneroom.com"
-  }
+  },
+  "tamilblaster" : {
+    "name" : "tamilblaster",
+    "url" : "https://www.tamilblasters.qpon"
+  },
 }
