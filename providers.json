@@ -158,5 +158,13 @@
   "tamilblaster" : {
     "name" : "tamilblaster",
     "url" : "https://www.tamilblasters.qpon"
+  },
+  "pikahd" : {
+    "name" : "pikahd",
+    "url" : "https://pikahd.eu/"
+  },
+  "hdmovies2" : {
+    "name" : "hdmovies2",
+    "url" : "https://hdmovie2.africa"
   }
 }
