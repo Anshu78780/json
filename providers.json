@@ -43,25 +43,9 @@
     "name": "katmovieshd",
     "url":"https://katmoviehd.observer"
   },
-   "autoEmbed":{
-    "name":"autoEmbed",
-    "url":"https://autoembed.cc"
-  },
-  "aed":{
-    "name":"autoEmbedDrama",
-    "url":"https://watch-drama.autoembed.cc"
-  },
-   "aea":{
-    "name":"autoEmbedAnime",
-    "url":"https://watch-anime.autoembed.cc"
-  },
   "tokyoinsider":{
     "name":"tokyoinsider",
     "url":"https://www.tokyoinsider.com"
-  },
-  "consumet":{
-    "name":"consumet",
-    "url":"https://consumet.8man.me"
   },
   "nfMirror":{
     "name":"nfMirror",
@@ -82,10 +66,6 @@
    "showbox":{
     "name":"showbox",
     "url":"https://www.showbox.media"
-  },
-   "moviesapi":{
-    "name":"moviesapi",
-    "url":"https://moviesapi.club"
   },
   "protonMovies":{
     "name":"protonMovies",
@@ -139,10 +119,6 @@
     "name" : "cinebox",
     "url" : "https://1cinevood.co/"
   },
-  "netmir" : {
-    "name" : "netmir",
-    "url" : "https://netmirror.art"
-  },
   "zinkmovies" : {
   "name" : "zinkmovies",
     "url" : "https://zinkmovies.hair/"
@@ -155,16 +131,8 @@
     "name": "MovieBox",
     "url": "https://api6.aoneroom.com"
   },
-  "tamilblaster" : {
-    "name" : "tamilblaster",
-    "url" : "https://www.tamilblasters.qpon"
-  },
-  "pikahd" : {
-    "name" : "pikahd",
-    "url" : "https://pikahd.eu/"
-  },
-  "hdmovies2" : {
-    "name" : "hdmovies2",
-    "url" : "https://hdmovie2.careers"
+  "filmyclub" : {
+    "name" : "filmyclub",
+    "url" : "https://filmycab.media/"
   }
 }
