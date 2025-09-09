@@ -5,7 +5,7 @@
   },
   "Topmovies": {
     "name": "Topmovies",
-    "url": "https://topmovies.tube"
+    "url": "https://topmovies.rip"
   },
   "UhdMovies": {
     "name": "UhdMovies",
@@ -21,7 +21,7 @@
   },
   "lux": {
     "name":"Rogmovies",
-    "url":"https://rogmovies.space/"
+    "url":"https://rogmovies.org/"
   },
   "drive":{
    "name":"moviesDrive",
@@ -29,11 +29,11 @@
   },
    "multi":{
    "name":"multimovies",
-    "url":"https://multimovies.pro/"
+    "url":"https://multimovies.lol/"
   },
    "w4u":{
    "name":"world4ufree",
-    "url":"hhttps://world4ufree.news/"
+    "url":"https://world4ufree.news/"
   },
   "hdhub":{
     "name":"hdhub4u",
@@ -89,7 +89,7 @@
   },
   "allmovieshub" : {
     "name" : "allmovieshub",
-    "url" : "https://allmovieshub.dev/"
+    "url" : "https://allmovieshub.date"
   },
   "skymovieshd" : {
     "name" : "skymovieshd",
@@ -97,11 +97,11 @@
   },
   "dramafull" : {
     "name" : "dramafull",
-    "url" : "https://dramafull.co"
+    "url" : "https://dramafull.cc"
   },
   "yomovies" : {
     "name" : "yomovies",
-    "url"  : "https://yomovies.beer"
+    "url"  : "https://yomovies.christmas"
   },
   "bappam" : {
     "name" : "bappam",
@@ -134,5 +134,13 @@
   "filmyclub" : {
     "name" : "filmyclub",
     "url" : "https://filmycab.media/"
+  }, 
+  "moviezwap": {
+    "name": "moviezwap",
+    "url": "https://www.moviezwap.care/"
+  },
+  "9xflix": {
+    "name": "9xflix",
+    "url": "https://9xflix.tube"
   }
 }
