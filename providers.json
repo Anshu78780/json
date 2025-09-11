@@ -142,5 +142,9 @@
   "9xflix": {
     "name": "9xflix",
     "url": "https://9xflix.tube"
+  },
+  "oggmovies" : {
+    "name" : "oggmovies",
+    "url" : "https://ogomovies.gg"
   }
 }
