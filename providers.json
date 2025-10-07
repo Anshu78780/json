@@ -11,14 +11,6 @@
     "name": "UhdMovies",
     "url": "https://uhdmovies.rip"
   },
-    "dooflix": {
-    "name": "dooflix",
-    "url": "https://dooflixpanel.com"
-  },
-  "Vega": {
-    "name": "vegamovies",
-    "url": "https://vegamovies.menu"
-  },
   "lux": {
     "name":"Rogmovies",
     "url":"https://rogmovies.me/"
@@ -43,10 +35,6 @@
     "name": "katmovieshd",
     "url":"https://katmoviehd.observer"
   },
-  "tokyoinsider":{
-    "name":"tokyoinsider",
-    "url":"https://www.tokyoinsider.com"
-  },
   "nfMirror":{
     "name":"nfMirror",
     "url":"https://net20.cc"
@@ -62,10 +50,6 @@
   "cinemaLuxe":{
     "name":"cinemaLuxe",
     "url":"https://cinemalux.buzz"
-  },
-   "showbox":{
-    "name":"showbox",
-    "url":"https://www.showbox.media"
   },
   "protonMovies":{
     "name":"protonMovies",
@@ -119,20 +103,8 @@
     "name" : "filmyclub",
     "url" : "https://filmycab.digital/"
   }, 
-  "moviezwap": {
-    "name": "moviezwap",
-    "url": "https://www.moviezwap.care/"
-  },
-  "9xflix": {
-    "name": "9xflix",
-    "url": "https://9xflix.tube"
-  },
   "oggmovies" : {
     "name" : "oggmovies",
     "url" : "https://ogomovies.mobi"
   }, 
-  "pikahd" : {
-    "name" : "pikahd",
-    "url" : "https://pikahd.eu"
-  }
 }
