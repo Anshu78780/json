@@ -21,7 +21,7 @@
   },
    "multi":{
    "name":"multimovies",
-    "url":"https://multimovies.city/"
+    "url":"https://multimovies.network"
   },
    "w4u":{
    "name":"world4ufree",
@@ -114,5 +114,9 @@
   "Vega": {
     "name": "vegamovies",
     "url": "https://vegamovies.menu"
+  },
+   "joya9tv": {
+    "name": "joya9tv1",
+    "url": "https://joya9tv1.com"
   }
 }
