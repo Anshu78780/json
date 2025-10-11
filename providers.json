@@ -106,6 +106,10 @@
   "oggmovies" : {
     "name" : "oggmovies",
     "url" : "https://ogomovies.mobi"
+  },
+  "zeefliz": {
+    "name": "zeefliz",
+    "url": "https://zeefliz.asia"
   }
   
 }
