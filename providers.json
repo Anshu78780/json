@@ -110,6 +110,9 @@
   "zeefliz": {
     "name": "zeefliz",
     "url": "https://zeefliz.asia"
+  },
+  "Vega": {
+    "name": "vegamovies",
+    "url": "https://vegamovies.menu"
   }
-  
 }
