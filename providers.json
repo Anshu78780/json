@@ -5,15 +5,11 @@
   },
   "Topmovies": {
     "name": "Topmovies",
-    "url": "https://topmovies.pet"
+    "url": "https://moviesleech.org"
   },
   "UhdMovies": {
     "name": "UhdMovies",
     "url": "https://uhdmovies.rip"
-  },
-  "lux": {
-    "name":"Rogmovies",
-    "url":"https://vegamovies.net.pk/"
   },
   "drive":{
    "name":"moviesDrive",
@@ -46,14 +42,6 @@
     "kissKh":{
     "name":"kissKh",
     "url":"https://kisskh.ovh"
-  },
-  "cinemaLuxe":{
-    "name":"cinemaLuxe",
-    "url":"https://cinemalux.buzz"
-  },
-  "protonMovies":{
-    "name":"protonMovies",
-    "url":"https://m3.protonmovies.top"
   },
   "filmyfly" : {
     "name":"flimyfly",
