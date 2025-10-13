@@ -106,5 +106,9 @@
    "joya9tv": {
     "name": "joya9tv1",
     "url": "https://joya9tv1.com"
-  }
+  },
+   "cinemaLuxe": {
+    "name": "cinemaLuxe",
+    "url": "https://cinemalux.zip/"
+  },
 }
