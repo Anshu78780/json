@@ -110,5 +110,9 @@
    "cinemaLuxe": {
     "name": "cinemaLuxe",
     "url": "https://cinemalux.zip/"
+  },
+  "themoviesflix" : {
+    "name" : "themovieflix",
+    "url" : "https://themoviesflix.dev"
   }
 }
