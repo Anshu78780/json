@@ -114,5 +114,9 @@
   "themoviesflix" : {
     "name" : "themovieflix",
     "url" : "https://themoviesflix.you"
+  },
+  "srmovies" :{
+    "name" : "srmovies",
+    "url" : "https://ssrmovies.bet"
   }
 }
