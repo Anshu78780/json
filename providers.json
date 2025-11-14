@@ -122,5 +122,9 @@
   "movies4u2": {
     "name": "movies4u2",
     "url": "https://movies4u.ht"
+  },
+   "consumet": {
+    "name": "consumet",
+    "url": "https://consumet.zendax.tech"
   }
 }
