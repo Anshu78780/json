@@ -126,5 +126,9 @@
    "consumet": {
     "name": "consumet",
     "url": "https://consumet.zendax.tech"
+  },
+    "tokyoinsider": {
+    "name": "tokyoinsider",
+    "url": "https://www.tokyoinsider.com"
   }
 }
