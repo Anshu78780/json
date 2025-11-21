@@ -130,5 +130,9 @@
     "tokyoinsider": {
     "name": "tokyoinsider",
     "url": "https://www.tokyoinsider.com"
+  },
+  "watchulz" : {
+    "name" : "watchulz",
+    "url" : "https://www.watchmovierulz.onl/"
   }
 }
