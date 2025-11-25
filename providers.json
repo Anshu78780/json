@@ -134,5 +134,9 @@
   "watchulz" : {
     "name" : "watchulz",
     "url" : "https://www.watchmovierulz.onl/"
-  }
+  },
+    "kissanime" : {
+      "name" : "kissanime",
+      "url" : "https://kissanime.co/kissanime-home.html"
+    }
 }
