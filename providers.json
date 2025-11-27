@@ -138,5 +138,9 @@
     "kissanime" : {
       "name" : "kissanime",
       "url" : "https://kissanime.co/kissanime-home.html"
-    }
+    },
+  "animesalt" : {
+    "name" : "animesalt",
+    "url" : "https://animesalt.cc"
+  }
 }
