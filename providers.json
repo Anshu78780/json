@@ -146,5 +146,9 @@
   "theanimeworld": {
     "name": "theanimeworld",
     "url": "http://watchanimeworld.net/"
+  },
+  "hianime" : {
+    "name" : "hianime",
+    "url" : "https://hianime.mx/"
   }
 }
