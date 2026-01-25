@@ -73,7 +73,7 @@
   },
   "yomovies": {
     "name": "yomovies",
-    "url": "https://yomovies.cafe/"
+    "url": "https://yomovies.gripe/"
   },
   "movies4u": {
     "name": "movies4u",
@@ -147,8 +147,8 @@
     "name": "theanimeworld",
     "url": "http://watchanimeworld.net/"
   },
-  "hianime" : {
-    "name" : "hianime",
-    "url" : "https://hianime.mx/"
+  "hianime": {
+    "name": "hianime",
+    "url": "https://hianime.mx/"
   }
 }
