@@ -147,8 +147,8 @@
     "name": "theanimeworld",
     "url": "http://watchanimeworld.net/"
   },
-  "hianime": {
-    "name": "hianime",
-    "url": "https://hianime.mx/"
-  }
+  "moviebox" : {
+    "name" : "moviebox",
+    "url" : "https://themoviebox.org/"
+  },
 }
