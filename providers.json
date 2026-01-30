@@ -85,7 +85,7 @@
   },
   "zinkmovies": {
     "name": "zinkmovies",
-    "url": "https://new3.zinkmovies.vip/"
+    "url": "https://new4.zinkmovies.vip/"
   },
   "filmyclub": {
     "name": "filmyclub",
@@ -147,8 +147,8 @@
     "name": "theanimeworld",
     "url": "http://watchanimeworld.net/"
   },
-  "moviebox" : {
-    "name" : "moviebox",
-    "url" : "https://themoviebox.org/"
+  "moviebox": {
+    "name": "moviebox",
+    "url": "https://themoviebox.org/"
   }
 }
