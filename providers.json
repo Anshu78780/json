@@ -121,7 +121,7 @@
   },
   "movies4u2": {
     "name": "movies4u2",
-    "url": "https://movies4u.am/"
+    "url": "https://movies4u.at/"
   },
   "consumet": {
     "name": "consumet",
@@ -151,8 +151,8 @@
     "name": "moviebox",
     "url": "https://themoviebox.org/"
   },
-  "xdmovies" : {
-    "name" : "xdmovies",
-    "url" : "https://new.xdmovies.wtf/"
+  "xdmovies": {
+    "name": "xdmovies",
+    "url": "https://new.xdmovies.wtf/"
   }
 }
