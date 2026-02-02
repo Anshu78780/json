@@ -154,5 +154,9 @@
   "xdmovies": {
     "name": "xdmovies",
     "url": "https://new.xdmovies.wtf/"
+  },
+  "hianime" : {
+    "name" : "hianime",
+    "url" : "https://hianime.mx/"
   }
 }
