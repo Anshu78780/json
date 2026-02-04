@@ -73,7 +73,7 @@
   },
   "yomovies": {
     "name": "yomovies",
-    "url": "https://yomovies.gripe/"
+    "url": "https://yomovies.productions/"
   },
   "movies4u": {
     "name": "movies4u",
@@ -155,8 +155,8 @@
     "name": "xdmovies",
     "url": "https://new.xdmovies.wtf/"
   },
-  "hianime" : {
-    "name" : "hianime",
-    "url" : "https://hianime.mx/"
+  "hianime": {
+    "name": "hianime",
+    "url": "https://hianime.mx/"
   }
 }
