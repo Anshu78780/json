@@ -73,7 +73,7 @@
   },
   "yomovies": {
     "name": "yomovies",
-    "url": "https://yomovies.sarl/"
+    "url": "https://yomovies.pizza/"
   },
   "movies4u": {
     "name": "movies4u",
@@ -163,8 +163,8 @@
     "name": "lux",
     "url": "https://rogmovies.pics/"
   },
-  "movieshub" : {
+  "movieshub": {
     "name": "movieshub",
-    "url" : "https://hdmovieshub.pw/"
+    "url": "https://hdmovieshub.pw/"
   }
 }
