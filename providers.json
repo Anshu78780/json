@@ -162,5 +162,9 @@
   "lux": {
     "name": "lux",
     "url": "https://rogmovies.pics/"
+  },
+  "movieshub" : {
+    "name": "movieshub",
+    "url" : "https://hdmovieshub.pw/"
   }
 }
