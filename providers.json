@@ -170,5 +170,9 @@
   "moviezwap" : {
     "name" : "moviezwap",
     "url" : "https://www.moviezwap.toys/"
+  },
+  "tamil" : {
+    "name" : "tamil",
+    "url" : "https://www.1tamilmv.immo/"
   }
 }
