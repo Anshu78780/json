@@ -166,5 +166,9 @@
   "movieshub": {
     "name": "movieshub",
     "url": "https://hdmovieshub.click/"
+  },
+  "moviezwap" : {
+    "name" : "moviezwap",
+    "url" : "https://www.moviezwap.toys/"
   }
 }
