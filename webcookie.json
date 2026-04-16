@@ -1,1 +1,6 @@
-
+{
+  "Cook": "t_hash_t=ca1e21725734e7c2430e4c94973f3ebb%3A%3A6c4f070944e0266e6f496fa1ffa7e4f4%3A%3A1776339200%3A%3Ani; user_token=6f55cf625919b85b9f6db526c6b3e322; addhash=a8e43236942edddf65a3c490c6f055fd%3A%3A43c6b1134b54cc6e9288142dc9f7b381%3A%3A1776339162%3A%3Ani;",
+  "ttlSeconds": 79200,
+  "createdAt": "2026-04-16T11:33:21.068Z",
+  "expiresAt": "2026-04-17T09:33:21.068Z"
+}
