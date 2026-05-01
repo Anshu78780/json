@@ -2,11 +2,17 @@
 
 <div align="center">
 
-[![ScreenScape](https://img.shields.io/badge/ScreenScape-App-blue?style=for-the-badge)](https://screenscape.fun)
+[![ScreenScape](https://img.shields.io/badge/ScreenScape-App-blue?style=for-the-badge)](https://screenscape.me)
 [![API Repository](https://img.shields.io/badge/API-ScraperAPI-green?style=for-the-badge)](https://github.com/Anshu78780/ScarperApi)
 [![Providers](https://img.shields.io/badge/Providers-40+-orange?style=for-the-badge)](#providers-list)
 
-**Official provider configuration repository for [ScreenScape](https://screenscape.fun) - Your ultimate streaming companion**
+**Official provider configuration repository for [ScreenScape](https://screenscape.me) - Your ultimate streaming companion**
+
+### 🌐 Now Available on Web!
+
+<div align="center">
+<img src="images/WEB.png" alt="ScreenScape Web" width="80%"/>
+</div>
 
 </div>
 
@@ -32,7 +38,7 @@ This repository contains the provider configurations for **ScreenScape**, a powe
 
 ### What is ScreenScape?
 
-ScreenScape is a modern streaming platform aggregator that allows users to discover and watch content from various sources through a unified interface. Visit [screenscape.fun](https://screenscape.fun) to experience it yourself!
+ScreenScape is a modern streaming platform aggregator that allows users to discover and watch content from various sources through a unified interface. Now available on **web**! Visit [screenscape.me](https://screenscape.me) to experience it yourself!
 
 ### Purpose
 
@@ -254,7 +260,7 @@ We welcome contributions to expand our provider network!
 ## 📚 Related Repositories
 
 - **[ScraperAPI](https://github.com/Anshu78780/ScarperApi)** - Backend API for content scraping and extraction
-- **[ScreenScape App](https://screenscape.fun)** - The main application (visit the website)
+- **[ScreenScape Web](https://screenscape.me)** - The main web application
 
 ---
 
@@ -272,7 +278,7 @@ This repository is maintained for **educational and research purposes only**.
 
 ## 📞 Contact & Support
 
-- **Website:** [screenscape.fun](https://screenscape.fun)
+- **Website:** [screenscape.me](https://screenscape.me)
 - **Issues:** [GitHub Issues](https://github.com/Anshu78780/json/issues)
 - **API Support:** [ScraperAPI Repository](https://github.com/Anshu78780/ScarperApi)
 
