@@ -1,0 +1,76 @@
+[
+  {
+    "name": "loki",
+    "label": "Strings",
+    "flag": "🇮🇳 🌐",
+    "endpoint": "/api/servses/strings",
+    "needsProxy": true,
+    "proxyPool": []
+  },
+  {
+    "name": "Scape",
+    "label": "Scape",
+    "flag": "🇮🇳 🇺🇸",
+    "endpoint": "",
+    "needsProxy": false,
+    "proxyPool": [],
+    "isEmbed": true,
+    "embedUrl": "https://nxsha.screenscape.me/embed"
+  },
+  {
+    "name": "mirror-nf",
+    "label": "Starter",
+    "flag": "🇮🇳 🇺🇸",
+    "endpoint": "/api/servses/mirror/nf",
+    "needsProxy": false,
+    "proxyPool": []
+  },
+  {
+    "name": "mirror-hs",
+    "label": "Starter Plus",
+    "flag": "🇮🇳 🇺🇸",
+    "endpoint": "/api/servses/mirror/hs",
+    "needsProxy": false,
+    "proxyPool": []
+  },
+  {
+    "name": "mirror-pv",
+    "label": "Starter Pro",
+    "flag": "🇮🇳 🇺🇸",
+    "endpoint": "/api/servses/mirror/pv",
+    "needsProxy": false,
+    "proxyPool": []
+  },
+  {
+    "name": "flix",
+    "label": "Vidlink",
+    "flag": "🇺🇸 🌐",
+    "endpoint": "/api/servses/flix",
+    "needsProxy": false,
+    "proxyPool": []
+  },
+  {
+    "name": "primevids",
+    "label": "Prism",
+    "flag": "🇺🇸",
+    "endpoint": "/api/servses/primevids",
+    "needsProxy": false,
+    "proxyPool": []
+  },
+  {
+    "name": "asiacloud",
+    "label": "AsiaCloud",
+    "flag": "🇮🇳 🌏",
+    "endpoint": "/api/servses/asiacloud",
+    "needsProxy": false,
+    "proxyPool": []
+  },
+  {
+    "name": "hindicast",
+    "label": "Hindicast",
+    "flag": "🇮🇳",
+    "endpoint": "/api/servses/hindicast",
+    "needsProxy": false,
+    "proxyPool": []
+  }
+]
