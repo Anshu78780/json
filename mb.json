@@ -1,1 +1,7 @@
-
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjYzMTM2Mjc3ODI0MzYzNDUzNzYsImF0cCI6MywiZXh0IjoiMTc4Mjk1OTk3MSIsImV4cCI6MTc5MDczNTk3MSwiaWF0IjoxNzgyOTU5NjcxfQ.LTwwz3MNzVMvduwp4jP5PfgT06wCvZj-1rstAlBRuFg",
+  "cookie": "mb_token=%22eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjYzMTM2Mjc3ODI0MzYzNDUzNzYsImF0cCI6MywiZXh0IjoiMTc4Mjk1OTk3MSIsImV4cCI6MTc5MDczNTk3MSwiaWF0IjoxNzgyOTU5NjcxfQ.LTwwz3MNzVMvduwp4jP5PfgT06wCvZj-1rstAlBRuFg%22; i18n_lang=en",
+  "ttlSeconds": 2592000,
+  "createdAt": "2026-07-02T02:39:31.818Z",
+  "expiresAt": "2026-08-01T02:39:31.818Z"
+}
